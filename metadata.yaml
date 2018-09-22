@@ -1,0 +1,30 @@
+_repo: Perkins-the-Fakeer_55123
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mayer, Henry
+    alias: Mayer, Hy. (Henry)
+    birthdate: 1868
+    deathdate: 1954
+    gutenberg_agent_id: '26414'
+    url: http://www.gutenberg.org/2009/agents/26414
+creator:
+  author:
+    agent_name: Zile, Edward S. van
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '48193'
+    url: http://www.gutenberg.org/2009/agents/48193
+description: ''
+gutenberg_issued: '2017-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Perkins, the Fakeer
+url: http://www.gutenberg.org/ebooks/55123
